@@ -1,0 +1,51 @@
+{
+  "appointments": [
+    {
+      "name": "Jane Doe",
+      "image": "https://img.freepik.com/premium-photo/covid-19-coronavirus-outbreak-healthcare-workers-pandemic-concept_1258-19738.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://www.shutterstock.com/image-photo/portrait-senior-doctor-sitting-medical-260nw-553640071.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    },
+    {
+      "name": "Sourav Lahiri",
+      "image": "https://media.istockphoto.com/id/1327024466/photo/portrait-of-male-doctor-in-white-coat-and-stethoscope-standing-in-clinic-hall.jpg?s=170667a&w=0&k=20&c=vdRdGMAdZVTjmw7JlSMUvTEpISzPvjInNCwfv0jWnPI=",
+      "specialization": "Dentist",
+      "experience": 5,
+      "location": "New-York",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
+    }
+  ],
+  "users": [
+    {
+      "username": "sourav",
+      "email": "sourav@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "tyson",
+      "email": "tyson@gmail.com",
+      "password": "12345"
+    },
+    {
+      "username": "dragoon",
+      "email": "dragoon@gmail.com",
+      "password": "12345"
+    }
+  ]
+}

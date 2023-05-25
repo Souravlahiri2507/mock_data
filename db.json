@@ -1,6 +1,6 @@
 {
   "appointments": [
-    {
+    { 
       "id": 1,
       "name": "Jane Doe",
       "image": "https://img.freepik.com/premium-photo/covid-19-coronavirus-outbreak-healthcare-workers-pandemic-concept_1258-19738.jpg",
@@ -11,7 +11,7 @@
       "slots": 2,
       "fee": 150
     },
-    {
+    { 
       "id": 2,
       "name": "Mark Johnson",
       "image": "https://www.shutterstock.com/image-photo/portrait-senior-doctor-sitting-medical-260nw-553640071.jpg",
@@ -34,43 +34,24 @@
       "fee": 100
     }
   ],
-  "users": {
-    "register": [
-      {
-        "id": 1,
-        "username": "sourav",
-        "email": "sourav@gmail.com",
-        "password": "12345"
-      },
-      {
-        "id": 2,
-        "username": "tyson",
-        "email": "tyson@gmail.com",
-        "password": "12345"
-      },
-      {
-        "id": 3,
-        "username": "dragoon",
-        "email": "dragoon@gmail.com",
-        "password": "12345"
-      }
-    ],
-    "login": [
-      {
-        "id": 1,
-        "email": "sourav@gmail.com",
-        "password": "12345"
-      },
-      {
-        "id": 2,
-        "email": "tyson@gmail.com",
-        "password": "12345"
-      },
-      {
-        "id": 3,
-        "email": "dragoon@gmail.com",
-        "password": "12345"
-      }
-    ]
-  }
+  "users": [
+    {
+      "id": 1,
+      "username": "sourav",
+      "email": "sourav@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 2,
+      "username": "tyson",
+      "email": "tyson@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 3,
+      "username": "dragoon",
+      "email": "dragoon@gmail.com",
+      "password": "12345"
+    }
+  ]
 }
